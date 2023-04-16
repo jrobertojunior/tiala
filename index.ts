@@ -67,6 +67,7 @@ for (const nome in airtableIndexedByNome) {
   } else if (items.length > 1) {
     const item = items[0];
     const parentCode = item.codigo;
+    // cria uma linha para o pai
     const row = createBingRow(
       "PAI" + item.codigo,
       item.nome,
@@ -77,9 +78,10 @@ for (const nome in airtableIndexedByNome) {
     );
     bingRows.push(row);
     for (const item of items) {
+      // cria uma linha para cada filho
       const row = createBingRow(
         item.codigo,
-        item.nome,
+        `"Tamanho: ${item.tamanho};Sexo: ${item.sexo}"`,
         item.imagem,
         item.custo,
         item.quantidade,
