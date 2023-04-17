@@ -1,5 +1,9 @@
 {
   "devDependencies": {
-    "@types/node": "^18.15.11"
+    "@types/node": "^18.15.11",
+    "tsx": "^3.12.6"
+  },
+  "scripts": {
+    "start": "npx tsx ."
   }
 }
