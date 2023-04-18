@@ -4,6 +4,9 @@ const airtableFile = fs.readFileSync("data/tiala-airtable.csv", "utf8");
 const airtableFileLines = airtableFile.split("\n").slice(1);
 
 const airtableJson = airtableFileLines.map((line) => {
+  // remove '\r' from line
+  line = line.replace("\r", "");
+
   const [
     codigo,
     nome,
@@ -16,6 +19,7 @@ const airtableJson = airtableFileLines.map((line) => {
     lucro,
     venda,
   ] = line.split(";");
+
   return {
     codigo,
     nome,
@@ -63,7 +67,8 @@ for (const nome in airtableIndexedByNome) {
       item.imagem,
       item.custo,
       item.quantidade,
-      ""
+      "",
+      item.venda
     );
     bingRows.push(row);
     continue;
@@ -77,7 +82,8 @@ for (const nome in airtableIndexedByNome) {
       item.imagem,
       item.custo,
       item.quantidade,
-      ""
+      "",
+      item.venda
     );
     bingRows.push(row);
     for (const item of items) {
@@ -88,7 +94,8 @@ for (const nome in airtableIndexedByNome) {
         item.imagem,
         item.custo,
         item.quantidade,
-        parentCode
+        parentCode,
+        item.venda
       );
       bingRows.push(row);
     }
@@ -103,7 +110,8 @@ function createBingRow(
   imagem: string,
   valorDeCusto: string,
   quantidade: string,
-  codigoPai: string
+  codigoPai: string,
+  valorDeVenda: string
 ): string {
   let row = "";
 
@@ -118,7 +126,7 @@ function createBingRow(
   // Origem
   row += "0" + ";";
   // Preço
-  row += valorDeCusto + ";";
+  row += valorDeVenda + ";";
   // Valor IPI fixo
   row += ";";
   // Observações
@@ -198,7 +206,7 @@ function createBingRow(
   // Meses Garantia no Fornecedor
   row += ";";
   // Clonar dados do pai
-  row += (codigoPai !== "" && "SIM") + ";";
+  row += (codigoPai !== "" ? "SIM" : "") + ";";
   // Condição do produto
   row += "Novo" + ";";
   // Frete Grátis
@@ -212,7 +220,7 @@ function createBingRow(
   // Unidade de medida
   row += "centímetro" + ";";
   // Preço de compra
-  row += ";";
+  row += valorDeCusto + ";";
   // Valor base ICMS ST para retenção
   row += ";";
   // Valor ICMS ST para retenção

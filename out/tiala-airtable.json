@@ -9,7 +9,7 @@
     "quantidade": "5",
     "custo": "R$3.01",
     "lucro": "100%",
-    "venda": "R$6.90\r"
+    "venda": "R$6.90"
   },
   {
     "codigo": "18",
@@ -21,7 +21,7 @@
     "quantidade": "2",
     "custo": "R$7.54",
     "lucro": "90%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "19",
@@ -33,7 +33,7 @@
     "quantidade": "1",
     "custo": "R$7.54",
     "lucro": "90%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "21",
@@ -45,7 +45,7 @@
     "quantidade": "2",
     "custo": "R$8.52",
     "lucro": "70%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "22",
@@ -57,7 +57,7 @@
     "quantidade": "1",
     "custo": "R$3.76",
     "lucro": "100%",
-    "venda": "R$8.90\r"
+    "venda": "R$8.90"
   },
   {
     "codigo": "24",
@@ -69,7 +69,7 @@
     "quantidade": "3",
     "custo": "R$7.01",
     "lucro": "100%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "25",
@@ -81,7 +81,7 @@
     "quantidade": "2",
     "custo": "R$7.01",
     "lucro": "100%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "26",
@@ -93,7 +93,7 @@
     "quantidade": "2",
     "custo": "R$7.01",
     "lucro": "100%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "35",
@@ -105,7 +105,7 @@
     "quantidade": "5",
     "custo": "R$3.01",
     "lucro": "100%",
-    "venda": "R$6.90\r"
+    "venda": "R$6.90"
   },
   {
     "codigo": "37",
@@ -117,7 +117,7 @@
     "quantidade": "2",
     "custo": "R$4.85",
     "lucro": "70%",
-    "venda": "R$8.90\r"
+    "venda": "R$8.90"
   },
   {
     "codigo": "38",
@@ -129,7 +129,7 @@
     "quantidade": "1",
     "custo": "R$14.33",
     "lucro": "60%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "43",
@@ -141,7 +141,7 @@
     "quantidade": "1",
     "custo": "R$19.40",
     "lucro": "60%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "45",
@@ -153,7 +153,7 @@
     "quantidade": "2",
     "custo": "R$9.17",
     "lucro": "60%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "49",
@@ -165,7 +165,7 @@
     "quantidade": "1",
     "custo": "R$14.00",
     "lucro": "70%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "50",
@@ -177,7 +177,7 @@
     "quantidade": "2",
     "custo": "R$14.01",
     "lucro": "70%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "66",
@@ -189,7 +189,7 @@
     "quantidade": "1",
     "custo": "R$14.65",
     "lucro": "70%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "210",
@@ -201,7 +201,7 @@
     "quantidade": "1",
     "custo": "R$24.61",
     "lucro": "50%",
-    "venda": "R$37.90\r"
+    "venda": "R$37.90"
   },
   {
     "codigo": "68",
@@ -213,7 +213,7 @@
     "quantidade": "1",
     "custo": "R$20.03",
     "lucro": "55%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "73",
@@ -225,7 +225,7 @@
     "quantidade": "1",
     "custo": "R$20.02",
     "lucro": "55%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "81",
@@ -237,7 +237,7 @@
     "quantidade": "1",
     "custo": "R$13.93",
     "lucro": "50%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "82",
@@ -249,7 +249,7 @@
     "quantidade": "2",
     "custo": "R$13.93",
     "lucro": "50%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "83",
@@ -261,7 +261,7 @@
     "quantidade": "2",
     "custo": "R$13.93",
     "lucro": "50%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "84",
@@ -273,7 +273,7 @@
     "quantidade": "1",
     "custo": "R$19.01",
     "lucro": "70%",
-    "venda": "R$32.90\r"
+    "venda": "R$32.90"
   },
   {
     "codigo": "86",
@@ -285,7 +285,7 @@
     "quantidade": "1",
     "custo": "R$12.48",
     "lucro": "70%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "87",
@@ -297,7 +297,7 @@
     "quantidade": "1",
     "custo": "R$12.48",
     "lucro": "70%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "88",
@@ -309,7 +309,7 @@
     "quantidade": "1",
     "custo": "R$12.48",
     "lucro": "70%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "89",
@@ -321,7 +321,7 @@
     "quantidade": "1",
     "custo": "R$12.48",
     "lucro": "70%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "90",
@@ -333,7 +333,7 @@
     "quantidade": "1",
     "custo": "R$12.48",
     "lucro": "70%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "708",
@@ -345,7 +345,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "91",
@@ -357,7 +357,7 @@
     "quantidade": "1",
     "custo": "R$19.72",
     "lucro": "55%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "92",
@@ -369,7 +369,7 @@
     "quantidade": "1",
     "custo": "R$19.72",
     "lucro": "55%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "93",
@@ -381,7 +381,7 @@
     "quantidade": "2",
     "custo": "R$19.01",
     "lucro": "55%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "94",
@@ -393,7 +393,7 @@
     "quantidade": "1",
     "custo": "R$19.01",
     "lucro": "55%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "98",
@@ -405,7 +405,7 @@
     "quantidade": "1",
     "custo": "R$13.93",
     "lucro": "60%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "99",
@@ -417,7 +417,7 @@
     "quantidade": "1",
     "custo": "R$13.93",
     "lucro": "60%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "102",
@@ -429,7 +429,7 @@
     "quantidade": "1",
     "custo": "R$17.01",
     "lucro": "80%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "103",
@@ -441,7 +441,7 @@
     "quantidade": "1",
     "custo": "R$17.01",
     "lucro": "80%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "104",
@@ -453,7 +453,7 @@
     "quantidade": "1",
     "custo": "R$17.01",
     "lucro": "80%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "107",
@@ -465,7 +465,7 @@
     "quantidade": "1",
     "custo": "R$13.61",
     "lucro": "55%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "109",
@@ -477,7 +477,7 @@
     "quantidade": "3",
     "custo": "R$7.49",
     "lucro": "50%",
-    "venda": "R$11.90\r"
+    "venda": "R$11.90"
   },
   {
     "codigo": "110",
@@ -489,7 +489,7 @@
     "quantidade": "1",
     "custo": "R$8.15",
     "lucro": "70%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "111",
@@ -501,7 +501,7 @@
     "quantidade": "5",
     "custo": "R$5.43",
     "lucro": "70%",
-    "venda": "R$9.90\r"
+    "venda": "R$9.90"
   },
   {
     "codigo": "112",
@@ -513,7 +513,7 @@
     "quantidade": "2",
     "custo": "R$7.26",
     "lucro": "50%",
-    "venda": "R$11.90\r"
+    "venda": "R$11.90"
   },
   {
     "codigo": "115",
@@ -525,7 +525,7 @@
     "quantidade": "5",
     "custo": "R$7.53",
     "lucro": "50%",
-    "venda": "R$11.90\r"
+    "venda": "R$11.90"
   },
   {
     "codigo": "116",
@@ -537,7 +537,7 @@
     "quantidade": "4",
     "custo": "R$7.17",
     "lucro": "80%",
-    "venda": "R$13.90\r"
+    "venda": "R$13.90"
   },
   {
     "codigo": "118",
@@ -549,7 +549,7 @@
     "quantidade": "2",
     "custo": "R$7.54",
     "lucro": "50%",
-    "venda": "R$11.90\r"
+    "venda": "R$11.90"
   },
   {
     "codigo": "119",
@@ -561,7 +561,7 @@
     "quantidade": "4",
     "custo": "R$4.72",
     "lucro": "40%",
-    "venda": "R$7.90\r"
+    "venda": "R$7.90"
   },
   {
     "codigo": "120",
@@ -573,7 +573,7 @@
     "quantidade": "1",
     "custo": "R$18.86",
     "lucro": "55%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "121",
@@ -585,7 +585,7 @@
     "quantidade": "1",
     "custo": "R$18.86",
     "lucro": "55%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "123",
@@ -597,7 +597,7 @@
     "quantidade": "1",
     "custo": "R$19.91",
     "lucro": "45%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "125",
@@ -609,7 +609,7 @@
     "quantidade": "1",
     "custo": "R$19.91",
     "lucro": "45%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "126",
@@ -621,7 +621,7 @@
     "quantidade": "1",
     "custo": "R$23.18",
     "lucro": "50%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "127",
@@ -633,7 +633,7 @@
     "quantidade": "1",
     "custo": "R$23.18",
     "lucro": "50%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "132",
@@ -645,7 +645,7 @@
     "quantidade": "1",
     "custo": "R$7.33",
     "lucro": "100%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "133",
@@ -657,7 +657,7 @@
     "quantidade": "1",
     "custo": "R$5.24",
     "lucro": "180%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "134",
@@ -669,7 +669,7 @@
     "quantidade": "1",
     "custo": "R$7.33",
     "lucro": "100%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "143",
@@ -681,7 +681,7 @@
     "quantidade": "1",
     "custo": "R$18.86",
     "lucro": "50%",
-    "venda": "R$28.90\r"
+    "venda": "R$28.90"
   },
   {
     "codigo": "135",
@@ -693,7 +693,7 @@
     "quantidade": "1",
     "custo": "R$9.33",
     "lucro": "60%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "144",
@@ -705,7 +705,7 @@
     "quantidade": "1",
     "custo": "R$18.86",
     "lucro": "50%",
-    "venda": "R$28.90\r"
+    "venda": "R$28.90"
   },
   {
     "codigo": "146",
@@ -717,7 +717,7 @@
     "quantidade": "1",
     "custo": "R$13.62",
     "lucro": "72%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "147",
@@ -729,7 +729,7 @@
     "quantidade": "1",
     "custo": "R$13.62",
     "lucro": "72%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "156",
@@ -741,7 +741,7 @@
     "quantidade": "1",
     "custo": "R$17.77",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "171",
@@ -753,7 +753,7 @@
     "quantidade": "1",
     "custo": "R$59.15",
     "lucro": "50%",
-    "venda": "R$89.90\r"
+    "venda": "R$89.90"
   },
   {
     "codigo": "173",
@@ -765,7 +765,7 @@
     "quantidade": "1",
     "custo": "R$65.49",
     "lucro": "44%",
-    "venda": "R$94.90\r"
+    "venda": "R$94.90"
   },
   {
     "codigo": "194",
@@ -777,7 +777,7 @@
     "quantidade": "1",
     "custo": "R$10.35",
     "lucro": "85%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "202",
@@ -789,7 +789,7 @@
     "quantidade": "1",
     "custo": "R$12.98",
     "lucro": "60%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "206",
@@ -801,7 +801,7 @@
     "quantidade": "1",
     "custo": "R$22.19",
     "lucro": "50%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "214",
@@ -813,7 +813,7 @@
     "quantidade": "1",
     "custo": "R$16.89",
     "lucro": "50%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "216",
@@ -825,7 +825,7 @@
     "quantidade": "1",
     "custo": "R$16.89",
     "lucro": "50%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "217",
@@ -837,7 +837,7 @@
     "quantidade": "1",
     "custo": "R$16.89",
     "lucro": "50%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "257",
@@ -849,7 +849,7 @@
     "quantidade": "1",
     "custo": "R$37.89",
     "lucro": "50%",
-    "venda": "R$57.90\r"
+    "venda": "R$57.90"
   },
   {
     "codigo": "224",
@@ -861,7 +861,7 @@
     "quantidade": "1",
     "custo": "R$5.59",
     "lucro": "50%",
-    "venda": "R$8.90\r"
+    "venda": "R$8.90"
   },
   {
     "codigo": "225",
@@ -873,7 +873,7 @@
     "quantidade": "1",
     "custo": "R$9.51",
     "lucro": "50%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "226",
@@ -885,7 +885,7 @@
     "quantidade": "1",
     "custo": "R$9.51",
     "lucro": "50%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "229",
@@ -897,7 +897,7 @@
     "quantidade": "1",
     "custo": "R$13.62",
     "lucro": "55%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "228",
@@ -909,7 +909,7 @@
     "quantidade": "1",
     "custo": "R$23.24",
     "lucro": "50%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "239",
@@ -921,7 +921,7 @@
     "quantidade": "1",
     "custo": "R$19.54",
     "lucro": "50%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "240",
@@ -933,7 +933,7 @@
     "quantidade": "1",
     "custo": "R$21.12",
     "lucro": "50%",
-    "venda": "R$32.90\r"
+    "venda": "R$32.90"
   },
   {
     "codigo": "245",
@@ -945,7 +945,7 @@
     "quantidade": "1",
     "custo": "R$15.84",
     "lucro": "70%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "248",
@@ -957,7 +957,7 @@
     "quantidade": "1",
     "custo": "R$20.38",
     "lucro": "60%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "251",
@@ -969,7 +969,7 @@
     "quantidade": "1",
     "custo": "R$37.89",
     "lucro": "50%",
-    "venda": "R$57.90\r"
+    "venda": "R$57.90"
   },
   {
     "codigo": "254",
@@ -981,7 +981,7 @@
     "quantidade": "1",
     "custo": "R$37.89",
     "lucro": "50%",
-    "venda": "R$57.90\r"
+    "venda": "R$57.90"
   },
   {
     "codigo": "261",
@@ -993,7 +993,7 @@
     "quantidade": "1",
     "custo": "R$37.89",
     "lucro": "50%",
-    "venda": "R$57.90\r"
+    "venda": "R$57.90"
   },
   {
     "codigo": "263",
@@ -1005,7 +1005,7 @@
     "quantidade": "1",
     "custo": "R$19.37",
     "lucro": "60%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "265",
@@ -1017,7 +1017,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "70%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "277",
@@ -1029,7 +1029,7 @@
     "quantidade": "1",
     "custo": "R$15.96",
     "lucro": "70%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "280",
@@ -1041,7 +1041,7 @@
     "quantidade": "1",
     "custo": "R$15.96",
     "lucro": "70%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "281",
@@ -1053,7 +1053,7 @@
     "quantidade": "1",
     "custo": "R$15.96",
     "lucro": "70%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "282",
@@ -1065,7 +1065,7 @@
     "quantidade": "1",
     "custo": "R$15.96",
     "lucro": "70%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "285",
@@ -1077,7 +1077,7 @@
     "quantidade": "1",
     "custo": "R$14.27",
     "lucro": "55%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "287",
@@ -1089,7 +1089,7 @@
     "quantidade": "1",
     "custo": "R$14.27",
     "lucro": "55%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "288",
@@ -1101,7 +1101,7 @@
     "quantidade": "1",
     "custo": "R$3.17",
     "lucro": "73%",
-    "venda": "R$5.90\r"
+    "venda": "R$5.90"
   },
   {
     "codigo": "296",
@@ -1113,7 +1113,7 @@
     "quantidade": "1",
     "custo": "R$17.65",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "311",
@@ -1125,7 +1125,7 @@
     "quantidade": "1",
     "custo": "R$17.65",
     "lucro": "100%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "317",
@@ -1137,7 +1137,7 @@
     "quantidade": "2",
     "custo": "R$11.69",
     "lucro": "105%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "320",
@@ -1149,7 +1149,7 @@
     "quantidade": "1",
     "custo": "R$8.41",
     "lucro": "130%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "322",
@@ -1161,7 +1161,7 @@
     "quantidade": "1",
     "custo": "R$8.41",
     "lucro": "130%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "324",
@@ -1173,7 +1173,7 @@
     "quantidade": "1",
     "custo": "R$8.41",
     "lucro": "70%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "330",
@@ -1185,7 +1185,7 @@
     "quantidade": "1",
     "custo": "R$8.41",
     "lucro": "70%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "331",
@@ -1197,7 +1197,7 @@
     "quantidade": "1",
     "custo": "R$8.41",
     "lucro": "70%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "333",
@@ -1209,7 +1209,7 @@
     "quantidade": "1",
     "custo": "R$6.80",
     "lucro": "100%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "334",
@@ -1221,7 +1221,7 @@
     "quantidade": "1",
     "custo": "R$6.80",
     "lucro": "100%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "387",
@@ -1233,7 +1233,7 @@
     "quantidade": "4",
     "custo": "R$18.13",
     "lucro": "70%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "336",
@@ -1245,7 +1245,7 @@
     "quantidade": "1",
     "custo": "R$11.06",
     "lucro": "120%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "345",
@@ -1257,7 +1257,7 @@
     "quantidade": "1",
     "custo": "R$16.92",
     "lucro": "70%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "359",
@@ -1269,7 +1269,7 @@
     "quantidade": "1",
     "custo": "R$10.53",
     "lucro": "45%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "360",
@@ -1281,7 +1281,7 @@
     "quantidade": "1",
     "custo": "R$10.53",
     "lucro": "45%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "362",
@@ -1293,7 +1293,7 @@
     "quantidade": "1",
     "custo": "R$10.53",
     "lucro": "45%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "364",
@@ -1305,7 +1305,7 @@
     "quantidade": "1",
     "custo": "R$10.53",
     "lucro": "45%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "366",
@@ -1317,7 +1317,7 @@
     "quantidade": "1",
     "custo": "R$10.53",
     "lucro": "50%",
-    "venda": "R$16.90\r"
+    "venda": "R$16.90"
   },
   {
     "codigo": "374",
@@ -1329,7 +1329,7 @@
     "quantidade": "1",
     "custo": "R$42.45",
     "lucro": "48%",
-    "venda": "R$63.90\r"
+    "venda": "R$63.90"
   },
   {
     "codigo": "376",
@@ -1341,7 +1341,7 @@
     "quantidade": "1",
     "custo": "R$42.45",
     "lucro": "50%",
-    "venda": "R$64.90\r"
+    "venda": "R$64.90"
   },
   {
     "codigo": "377",
@@ -1353,7 +1353,7 @@
     "quantidade": "2",
     "custo": "R$10.53",
     "lucro": "45%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "378",
@@ -1365,7 +1365,7 @@
     "quantidade": "1",
     "custo": "R$10.54",
     "lucro": "45%",
-    "venda": "R$15.90\r"
+    "venda": "R$15.90"
   },
   {
     "codigo": "380",
@@ -1377,7 +1377,7 @@
     "quantidade": "5",
     "custo": "R$21.34",
     "lucro": "66%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "382",
@@ -1389,7 +1389,7 @@
     "quantidade": "6",
     "custo": "R$25.30",
     "lucro": "76%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "383",
@@ -1401,7 +1401,7 @@
     "quantidade": "3",
     "custo": "R$26.52",
     "lucro": "71%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "384",
@@ -1413,7 +1413,7 @@
     "quantidade": "5",
     "custo": "R$26.52",
     "lucro": "71%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "385",
@@ -1425,7 +1425,7 @@
     "quantidade": "2",
     "custo": "R$16.00",
     "lucro": "145%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "381",
@@ -1437,7 +1437,7 @@
     "quantidade": "2",
     "custo": "R$21.34",
     "lucro": "66%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "386",
@@ -1449,7 +1449,7 @@
     "quantidade": "6",
     "custo": "R$18.72",
     "lucro": "110%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "388",
@@ -1461,7 +1461,7 @@
     "quantidade": "1",
     "custo": "R$16.65",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "389",
@@ -1473,7 +1473,7 @@
     "quantidade": "1",
     "custo": "R$16.65",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "390",
@@ -1485,7 +1485,7 @@
     "quantidade": "1",
     "custo": "R$16.65",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "391",
@@ -1497,7 +1497,7 @@
     "quantidade": "1",
     "custo": "R$20.38",
     "lucro": "70%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "394",
@@ -1509,7 +1509,7 @@
     "quantidade": "1",
     "custo": "R$18.59",
     "lucro": "70%",
-    "venda": "R$32.90\r"
+    "venda": "R$32.90"
   },
   {
     "codigo": "395",
@@ -1521,7 +1521,7 @@
     "quantidade": "1",
     "custo": "R$18.59",
     "lucro": "70%",
-    "venda": "R$32.90\r"
+    "venda": "R$32.90"
   },
   {
     "codigo": "396",
@@ -1533,7 +1533,7 @@
     "quantidade": "1",
     "custo": "R$18.59",
     "lucro": "70%",
-    "venda": "R$32.90\r"
+    "venda": "R$32.90"
   },
   {
     "codigo": "398",
@@ -1545,7 +1545,7 @@
     "quantidade": "1",
     "custo": "R$22.22",
     "lucro": "65%",
-    "venda": "R$37.90\r"
+    "venda": "R$37.90"
   },
   {
     "codigo": "400",
@@ -1557,7 +1557,7 @@
     "quantidade": "1",
     "custo": "R$12.87",
     "lucro": "70%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "401",
@@ -1569,7 +1569,7 @@
     "quantidade": "1",
     "custo": "R$12.87",
     "lucro": "70%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "403",
@@ -1581,7 +1581,7 @@
     "quantidade": "1",
     "custo": "R$12.87",
     "lucro": "70%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "405",
@@ -1593,7 +1593,7 @@
     "quantidade": "1",
     "custo": "R$12.87",
     "lucro": "70%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "406",
@@ -1605,7 +1605,7 @@
     "quantidade": "2",
     "custo": "R$25.33",
     "lucro": "95%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "410",
@@ -1617,7 +1617,7 @@
     "quantidade": "1",
     "custo": "R$19.20",
     "lucro": "70%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "413",
@@ -1629,7 +1629,7 @@
     "quantidade": "1",
     "custo": "R$24.05",
     "lucro": "64%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "416",
@@ -1641,7 +1641,7 @@
     "quantidade": "1",
     "custo": "R$19.20",
     "lucro": "70%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "418",
@@ -1653,7 +1653,7 @@
     "quantidade": "1",
     "custo": "R$24.05",
     "lucro": "64%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "430",
@@ -1665,7 +1665,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "432",
@@ -1677,7 +1677,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "433",
@@ -1689,7 +1689,7 @@
     "quantidade": "1",
     "custo": "R$16.76",
     "lucro": "95%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "436",
@@ -1701,7 +1701,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "439",
@@ -1713,7 +1713,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "440",
@@ -1725,7 +1725,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "444",
@@ -1737,7 +1737,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "449",
@@ -1749,7 +1749,7 @@
     "quantidade": "1",
     "custo": "R$18.01",
     "lucro": "85%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "451",
@@ -1761,7 +1761,7 @@
     "quantidade": "1",
     "custo": "R$11.32",
     "lucro": "95%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "452",
@@ -1773,7 +1773,7 @@
     "quantidade": "1",
     "custo": "R$11.32",
     "lucro": "95%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "454",
@@ -1785,7 +1785,7 @@
     "quantidade": "1",
     "custo": "R$11.32",
     "lucro": "95%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "456",
@@ -1797,7 +1797,7 @@
     "quantidade": "1",
     "custo": "R$11.32",
     "lucro": "95%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "460",
@@ -1809,7 +1809,7 @@
     "quantidade": "1",
     "custo": "R$2.36",
     "lucro": "75%",
-    "venda": "R$4.90\r"
+    "venda": "R$4.90"
   },
   {
     "codigo": "461",
@@ -1821,7 +1821,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "462",
@@ -1833,7 +1833,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "463",
@@ -1845,7 +1845,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "464",
@@ -1857,7 +1857,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "466",
@@ -1869,7 +1869,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "468",
@@ -1881,7 +1881,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "470",
@@ -1893,7 +1893,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "474",
@@ -1905,7 +1905,7 @@
     "quantidade": "1",
     "custo": "R$16.17",
     "lucro": "80%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "488",
@@ -1917,7 +1917,7 @@
     "quantidade": "1",
     "custo": "R$19.58",
     "lucro": "71%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "494",
@@ -1929,7 +1929,7 @@
     "quantidade": "1",
     "custo": "R$18.02",
     "lucro": "97%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "495",
@@ -1941,7 +1941,7 @@
     "quantidade": "1",
     "custo": "R$18.02",
     "lucro": "97%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "497",
@@ -1953,7 +1953,7 @@
     "quantidade": "1",
     "custo": "R$33.88",
     "lucro": "75%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "499",
@@ -1965,7 +1965,7 @@
     "quantidade": "1",
     "custo": "R$28.21",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "504",
@@ -1977,7 +1977,7 @@
     "quantidade": "1",
     "custo": "R$25.95",
     "lucro": "90%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "505",
@@ -1989,7 +1989,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "506",
@@ -2001,7 +2001,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "507",
@@ -2013,7 +2013,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "509",
@@ -2025,7 +2025,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "527",
@@ -2037,7 +2037,7 @@
     "quantidade": "1",
     "custo": "R$13.48",
     "lucro": "75%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "529",
@@ -2049,7 +2049,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "530",
@@ -2061,7 +2061,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "531",
@@ -2073,7 +2073,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "532",
@@ -2085,7 +2085,7 @@
     "quantidade": "1",
     "custo": "R$22.55",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "533",
@@ -2097,7 +2097,7 @@
     "quantidade": "1",
     "custo": "R$25.95",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "534",
@@ -2109,7 +2109,7 @@
     "quantidade": "1",
     "custo": "R$25.95",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "535",
@@ -2121,7 +2121,7 @@
     "quantidade": "1",
     "custo": "R$25.95",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "536",
@@ -2133,7 +2133,7 @@
     "quantidade": "1",
     "custo": "R$25.95",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "543",
@@ -2145,7 +2145,7 @@
     "quantidade": "1",
     "custo": "R$16.88",
     "lucro": "86%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "544",
@@ -2157,7 +2157,7 @@
     "quantidade": "1",
     "custo": "R$16.88",
     "lucro": "86%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "545",
@@ -2169,7 +2169,7 @@
     "quantidade": "1",
     "custo": "R$16.88",
     "lucro": "86%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "549",
@@ -2181,7 +2181,7 @@
     "quantidade": "1",
     "custo": "R$13.48",
     "lucro": "75%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "550",
@@ -2193,7 +2193,7 @@
     "quantidade": "1",
     "custo": "R$13.48",
     "lucro": "75%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "553",
@@ -2205,7 +2205,7 @@
     "quantidade": "1",
     "custo": "R$22.95",
     "lucro": "72%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "556",
@@ -2217,7 +2217,7 @@
     "quantidade": "1",
     "custo": "R$22.95",
     "lucro": "72%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "557",
@@ -2229,7 +2229,7 @@
     "quantidade": "1",
     "custo": "R$22.95",
     "lucro": "72%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "558",
@@ -2241,7 +2241,7 @@
     "quantidade": "1",
     "custo": "R$22.95",
     "lucro": "72%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "559",
@@ -2253,7 +2253,7 @@
     "quantidade": "1",
     "custo": "R$22.95",
     "lucro": "72%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "561",
@@ -2265,7 +2265,7 @@
     "quantidade": "1",
     "custo": "R$18.02",
     "lucro": "97%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "562",
@@ -2277,7 +2277,7 @@
     "quantidade": "1",
     "custo": "R$18.02",
     "lucro": "97%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "563",
@@ -2289,7 +2289,7 @@
     "quantidade": "1",
     "custo": "R$18.02",
     "lucro": "97%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "570",
@@ -2301,7 +2301,7 @@
     "quantidade": "1",
     "custo": "R$12.35",
     "lucro": "75%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "573",
@@ -2313,7 +2313,7 @@
     "quantidade": "1",
     "custo": "R$12.35",
     "lucro": "75%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "576",
@@ -2325,7 +2325,7 @@
     "quantidade": "1",
     "custo": "R$25.84",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "577",
@@ -2337,7 +2337,7 @@
     "quantidade": "1",
     "custo": "R$25.84",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "578",
@@ -2349,7 +2349,7 @@
     "quantidade": "1",
     "custo": "R$25.84",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "579",
@@ -2361,7 +2361,7 @@
     "quantidade": "1",
     "custo": "R$25.84",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "580",
@@ -2373,7 +2373,7 @@
     "quantidade": "1",
     "custo": "R$25.84",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "581",
@@ -2385,7 +2385,7 @@
     "quantidade": "1",
     "custo": "R$10.08",
     "lucro": "110%",
-    "venda": "R$21.90\r"
+    "venda": "R$21.90"
   },
   {
     "codigo": "584",
@@ -2397,7 +2397,7 @@
     "quantidade": "1",
     "custo": "R$12.35",
     "lucro": "90%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "585",
@@ -2409,7 +2409,7 @@
     "quantidade": "1",
     "custo": "R$12.35",
     "lucro": "90%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "586",
@@ -2421,7 +2421,7 @@
     "quantidade": "1",
     "custo": "R$12.35",
     "lucro": "90%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "589",
@@ -2433,7 +2433,7 @@
     "quantidade": "3",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "590",
@@ -2445,7 +2445,7 @@
     "quantidade": "3",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "591",
@@ -2457,7 +2457,7 @@
     "quantidade": "3",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "595",
@@ -2469,7 +2469,7 @@
     "quantidade": "2",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "596",
@@ -2481,7 +2481,7 @@
     "quantidade": "4",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "597",
@@ -2493,7 +2493,7 @@
     "quantidade": "3",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "598",
@@ -2505,7 +2505,7 @@
     "quantidade": "3",
     "custo": "R$22.16",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "599",
@@ -2517,7 +2517,7 @@
     "quantidade": "2",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "600",
@@ -2529,7 +2529,7 @@
     "quantidade": "3",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "601",
@@ -2541,7 +2541,7 @@
     "quantidade": "1",
     "custo": "R$19.07",
     "lucro": "75%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "602",
@@ -2553,7 +2553,7 @@
     "quantidade": "1",
     "custo": "R$19.07",
     "lucro": "75%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "603",
@@ -2565,7 +2565,7 @@
     "quantidade": "1",
     "custo": "R$19.07",
     "lucro": "75%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "604",
@@ -2577,7 +2577,7 @@
     "quantidade": "3",
     "custo": "R$22.15",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "605",
@@ -2589,7 +2589,7 @@
     "quantidade": "2",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "607",
@@ -2601,7 +2601,7 @@
     "quantidade": "1",
     "custo": "R$73.93",
     "lucro": "75%",
-    "venda": "R$129.90\r"
+    "venda": "R$129.90"
   },
   {
     "codigo": "608",
@@ -2613,7 +2613,7 @@
     "quantidade": "1",
     "custo": "R$121.16",
     "lucro": "48%",
-    "venda": "R$179.90\r"
+    "venda": "R$179.90"
   },
   {
     "codigo": "609",
@@ -2625,7 +2625,7 @@
     "quantidade": "1",
     "custo": "R$121.16",
     "lucro": "48%",
-    "venda": "R$179.90\r"
+    "venda": "R$179.90"
   },
   {
     "codigo": "611",
@@ -2637,7 +2637,7 @@
     "quantidade": "1",
     "custo": "R$72.45",
     "lucro": "50%",
-    "venda": "R$109.90\r"
+    "venda": "R$109.90"
   },
   {
     "codigo": "612",
@@ -2649,7 +2649,7 @@
     "quantidade": "1",
     "custo": "R$72.45",
     "lucro": "50%",
-    "venda": "R$109.90\r"
+    "venda": "R$109.90"
   },
   {
     "codigo": "613",
@@ -2661,7 +2661,7 @@
     "quantidade": "1",
     "custo": "R$58.01",
     "lucro": "50%",
-    "venda": "R$87.90\r"
+    "venda": "R$87.90"
   },
   {
     "codigo": "614",
@@ -2673,7 +2673,7 @@
     "quantidade": "1",
     "custo": "R$58.01",
     "lucro": "50%",
-    "venda": "R$87.90\r"
+    "venda": "R$87.90"
   },
   {
     "codigo": "616",
@@ -2685,7 +2685,7 @@
     "quantidade": "1",
     "custo": "R$48.34",
     "lucro": "50%",
-    "venda": "R$73.90\r"
+    "venda": "R$73.90"
   },
   {
     "codigo": "622",
@@ -2697,7 +2697,7 @@
     "quantidade": "1",
     "custo": "R$48.34",
     "lucro": "50%",
-    "venda": "R$73.90\r"
+    "venda": "R$73.90"
   },
   {
     "codigo": "623",
@@ -2709,7 +2709,7 @@
     "quantidade": "1",
     "custo": "R$48.34",
     "lucro": "50%",
-    "venda": "R$73.90\r"
+    "venda": "R$73.90"
   },
   {
     "codigo": "625",
@@ -2721,7 +2721,7 @@
     "quantidade": "1",
     "custo": "R$58.01",
     "lucro": "50%",
-    "venda": "R$87.90\r"
+    "venda": "R$87.90"
   },
   {
     "codigo": "629",
@@ -2733,7 +2733,7 @@
     "quantidade": "1",
     "custo": "R$111.36",
     "lucro": "50%",
-    "venda": "R$167.90\r"
+    "venda": "R$167.90"
   },
   {
     "codigo": "631",
@@ -2745,7 +2745,7 @@
     "quantidade": "1",
     "custo": "R$38.56",
     "lucro": "52%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "634",
@@ -2757,7 +2757,7 @@
     "quantidade": "1",
     "custo": "R$77.35",
     "lucro": "50%",
-    "venda": "R$116.90\r"
+    "venda": "R$116.90"
   },
   {
     "codigo": "636",
@@ -2769,7 +2769,7 @@
     "quantidade": "1",
     "custo": "R$48.34",
     "lucro": "50%",
-    "venda": "R$73.90\r"
+    "venda": "R$73.90"
   },
   {
     "codigo": "637",
@@ -2781,7 +2781,7 @@
     "quantidade": "1",
     "custo": "R$48.34",
     "lucro": "50%",
-    "venda": "R$73.90\r"
+    "venda": "R$73.90"
   },
   {
     "codigo": "638",
@@ -2793,7 +2793,7 @@
     "quantidade": "1",
     "custo": "R$53.23",
     "lucro": "49%",
-    "venda": "R$79.90\r"
+    "venda": "R$79.90"
   },
   {
     "codigo": "639",
@@ -2805,7 +2805,7 @@
     "quantidade": "1",
     "custo": "R$28.02",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "642",
@@ -2817,7 +2817,7 @@
     "quantidade": "1",
     "custo": "R$28.02",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "645",
@@ -2829,7 +2829,7 @@
     "quantidade": "1",
     "custo": "R$28.56",
     "lucro": "73%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "649",
@@ -2841,7 +2841,7 @@
     "quantidade": "1",
     "custo": "R$7.54",
     "lucro": "200%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "650",
@@ -2853,7 +2853,7 @@
     "quantidade": "1",
     "custo": "R$7.54",
     "lucro": "200%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "651",
@@ -2865,7 +2865,7 @@
     "quantidade": "1",
     "custo": "R$7.54",
     "lucro": "200%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "652",
@@ -2877,7 +2877,7 @@
     "quantidade": "1",
     "custo": "R$17.24",
     "lucro": "77%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "653",
@@ -2889,7 +2889,7 @@
     "quantidade": "1",
     "custo": "R$17.24",
     "lucro": "77%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "657",
@@ -2901,7 +2901,7 @@
     "quantidade": "1",
     "custo": "R$17.58",
     "lucro": "124%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "658",
@@ -2913,7 +2913,7 @@
     "quantidade": "1",
     "custo": "R$17.58",
     "lucro": "124%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "659",
@@ -2925,7 +2925,7 @@
     "quantidade": "1",
     "custo": "R$17.58",
     "lucro": "124%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "660",
@@ -2937,7 +2937,7 @@
     "quantidade": "1",
     "custo": "R$17.58",
     "lucro": "124%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "667",
@@ -2949,7 +2949,7 @@
     "quantidade": "1",
     "custo": "R$122.04",
     "lucro": "75%",
-    "venda": "R$214.90\r"
+    "venda": "R$214.90"
   },
   {
     "codigo": "668",
@@ -2961,7 +2961,7 @@
     "quantidade": "1",
     "custo": "R$92.20",
     "lucro": "75%",
-    "venda": "R$161.90\r"
+    "venda": "R$161.90"
   },
   {
     "codigo": "669",
@@ -2973,7 +2973,7 @@
     "quantidade": "1",
     "custo": "R$92.20",
     "lucro": "75%",
-    "venda": "R$161.90\r"
+    "venda": "R$161.90"
   },
   {
     "codigo": "670",
@@ -2985,7 +2985,7 @@
     "quantidade": "1",
     "custo": "R$76.40",
     "lucro": "75%",
-    "venda": "R$134.90\r"
+    "venda": "R$134.90"
   },
   {
     "codigo": "675",
@@ -2997,7 +2997,7 @@
     "quantidade": "1",
     "custo": "R$109.19",
     "lucro": "75%",
-    "venda": "R$191.90\r"
+    "venda": "R$191.90"
   },
   {
     "codigo": "679",
@@ -3009,7 +3009,7 @@
     "quantidade": "1",
     "custo": "R$125.97",
     "lucro": "74%",
-    "venda": "R$219.90\r"
+    "venda": "R$219.90"
   },
   {
     "codigo": "688",
@@ -3021,7 +3021,7 @@
     "quantidade": "1",
     "custo": "R$125.97",
     "lucro": "74%",
-    "venda": "R$219.90\r"
+    "venda": "R$219.90"
   },
   {
     "codigo": "680",
@@ -3033,7 +3033,7 @@
     "quantidade": "1",
     "custo": "R$130.00",
     "lucro": "75%",
-    "venda": "R$227.90\r"
+    "venda": "R$227.90"
   },
   {
     "codigo": "682",
@@ -3045,7 +3045,7 @@
     "quantidade": "1",
     "custo": "R$108.12",
     "lucro": "75%",
-    "venda": "R$189.90\r"
+    "venda": "R$189.90"
   },
   {
     "codigo": "684",
@@ -3057,7 +3057,7 @@
     "quantidade": "12",
     "custo": "R$2.00",
     "lucro": "250%",
-    "venda": "R$7.90\r"
+    "venda": "R$7.90"
   },
   {
     "codigo": "685",
@@ -3069,7 +3069,7 @@
     "quantidade": "11",
     "custo": "R$2.00",
     "lucro": "250%",
-    "venda": "R$7.90\r"
+    "venda": "R$7.90"
   },
   {
     "codigo": "691",
@@ -3081,7 +3081,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "693",
@@ -3093,7 +3093,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "695",
@@ -3105,7 +3105,7 @@
     "quantidade": "1",
     "custo": "R$14.98",
     "lucro": "95%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "698",
@@ -3117,7 +3117,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "702",
@@ -3129,7 +3129,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "703",
@@ -3141,7 +3141,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "705",
@@ -3153,7 +3153,7 @@
     "quantidade": "1",
     "custo": "R$19.71",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "706",
@@ -3165,7 +3165,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "707",
@@ -3177,7 +3177,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "716",
@@ -3189,7 +3189,7 @@
     "quantidade": "1",
     "custo": "R$12.83",
     "lucro": "76%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "717",
@@ -3201,7 +3201,7 @@
     "quantidade": "1",
     "custo": "R$12.83",
     "lucro": "76%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "718",
@@ -3213,7 +3213,7 @@
     "quantidade": "1",
     "custo": "R$12.83",
     "lucro": "76%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "720",
@@ -3225,7 +3225,7 @@
     "quantidade": "1",
     "custo": "R$12.83",
     "lucro": "76%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "721",
@@ -3237,7 +3237,7 @@
     "quantidade": "1",
     "custo": "R$12.83",
     "lucro": "76%",
-    "venda": "R$23.90\r"
+    "venda": "R$23.90"
   },
   {
     "codigo": "724",
@@ -3249,7 +3249,7 @@
     "quantidade": "1",
     "custo": "R$21.43",
     "lucro": "80%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "730",
@@ -3261,7 +3261,7 @@
     "quantidade": "1",
     "custo": "R$14.98",
     "lucro": "70%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "732",
@@ -3273,7 +3273,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "76%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "733",
@@ -3285,7 +3285,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "76%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "736",
@@ -3297,7 +3297,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "76%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "737",
@@ -3309,7 +3309,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "76%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "739",
@@ -3321,7 +3321,7 @@
     "quantidade": "1",
     "custo": "R$19.71",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "740",
@@ -3333,7 +3333,7 @@
     "quantidade": "2",
     "custo": "R$18.69",
     "lucro": "110%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "742",
@@ -3345,7 +3345,7 @@
     "quantidade": "1",
     "custo": "R$11.22",
     "lucro": "140%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "743",
@@ -3357,7 +3357,7 @@
     "quantidade": "1",
     "custo": "R$11.22",
     "lucro": "140%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "745",
@@ -3369,7 +3369,7 @@
     "quantidade": "1",
     "custo": "R$24.63",
     "lucro": "60%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "746",
@@ -3381,7 +3381,7 @@
     "quantidade": "1",
     "custo": "R$24.63",
     "lucro": "60%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "754",
@@ -3393,7 +3393,7 @@
     "quantidade": "1",
     "custo": "R$24.63",
     "lucro": "60%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "759",
@@ -3405,7 +3405,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "760",
@@ -3417,7 +3417,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "762",
@@ -3429,7 +3429,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "764",
@@ -3441,7 +3441,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "766",
@@ -3453,7 +3453,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "76%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "767",
@@ -3465,7 +3465,7 @@
     "quantidade": "1",
     "custo": "R$19.70",
     "lucro": "76%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "770",
@@ -3477,7 +3477,7 @@
     "quantidade": "1",
     "custo": "R$37.48",
     "lucro": "74%",
-    "venda": "R$65.90\r"
+    "venda": "R$65.90"
   },
   {
     "codigo": "772",
@@ -3489,7 +3489,7 @@
     "quantidade": "1",
     "custo": "R$37.48",
     "lucro": "74%",
-    "venda": "R$65.90\r"
+    "venda": "R$65.90"
   },
   {
     "codigo": "773",
@@ -3501,7 +3501,7 @@
     "quantidade": "1",
     "custo": "R$32.13",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "775",
@@ -3513,7 +3513,7 @@
     "quantidade": "1",
     "custo": "R$32.13",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "776",
@@ -3525,7 +3525,7 @@
     "quantidade": "1",
     "custo": "R$32.13",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "777",
@@ -3537,7 +3537,7 @@
     "quantidade": "1",
     "custo": "R$32.13",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "778",
@@ -3549,7 +3549,7 @@
     "quantidade": "1",
     "custo": "R$32.13",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "779",
@@ -3561,7 +3561,7 @@
     "quantidade": "1",
     "custo": "R$32.13",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "781",
@@ -3573,7 +3573,7 @@
     "quantidade": "1",
     "custo": "R$23.80",
     "lucro": "75%",
-    "venda": "R$42.90\r"
+    "venda": "R$42.90"
   },
   {
     "codigo": "783",
@@ -3585,7 +3585,7 @@
     "quantidade": "1",
     "custo": "R$23.80",
     "lucro": "75%",
-    "venda": "R$42.90\r"
+    "venda": "R$42.90"
   },
   {
     "codigo": "784",
@@ -3597,7 +3597,7 @@
     "quantidade": "1",
     "custo": "R$16.23",
     "lucro": "81%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "785",
@@ -3609,7 +3609,7 @@
     "quantidade": "2",
     "custo": "R$16.23",
     "lucro": "81%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "786",
@@ -3621,7 +3621,7 @@
     "quantidade": "1",
     "custo": "R$16.23",
     "lucro": "81%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "787",
@@ -3633,7 +3633,7 @@
     "quantidade": "1",
     "custo": "R$16.23",
     "lucro": "81%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "788",
@@ -3645,7 +3645,7 @@
     "quantidade": "1",
     "custo": "R$10.82",
     "lucro": "172%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "793",
@@ -3657,7 +3657,7 @@
     "quantidade": "1",
     "custo": "R$10.82",
     "lucro": "80%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "796",
@@ -3669,7 +3669,7 @@
     "quantidade": "1",
     "custo": "R$20.56",
     "lucro": "75%",
-    "venda": "R$36.90\r"
+    "venda": "R$36.90"
   },
   {
     "codigo": "798",
@@ -3681,7 +3681,7 @@
     "quantidade": "1",
     "custo": "R$20.56",
     "lucro": "75%",
-    "venda": "R$36.90\r"
+    "venda": "R$36.90"
   },
   {
     "codigo": "799",
@@ -3693,7 +3693,7 @@
     "quantidade": "1",
     "custo": "R$17.31",
     "lucro": "70%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "800",
@@ -3705,7 +3705,7 @@
     "quantidade": "1",
     "custo": "R$17.31",
     "lucro": "70%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "809",
@@ -3717,7 +3717,7 @@
     "quantidade": "1",
     "custo": "R$22.01",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "813",
@@ -3729,7 +3729,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "140%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "814",
@@ -3741,7 +3741,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "140%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "815",
@@ -3753,7 +3753,7 @@
     "quantidade": "1",
     "custo": "R$17.67",
     "lucro": "120%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "816",
@@ -3765,7 +3765,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "140%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "819",
@@ -3777,7 +3777,7 @@
     "quantidade": "1",
     "custo": "R$9.20",
     "lucro": "111%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "820",
@@ -3789,7 +3789,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "100%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "829",
@@ -3801,7 +3801,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "100%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "832",
@@ -3813,7 +3813,7 @@
     "quantidade": "1",
     "custo": "R$17.67",
     "lucro": "120%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "837",
@@ -3825,7 +3825,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "140%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "838",
@@ -3837,7 +3837,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "140%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "839",
@@ -3849,7 +3849,7 @@
     "quantidade": "1",
     "custo": "R$14.72",
     "lucro": "140%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "846",
@@ -3861,7 +3861,7 @@
     "quantidade": "1",
     "custo": "R$19.14",
     "lucro": "106%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "849",
@@ -3873,7 +3873,7 @@
     "quantidade": "1",
     "custo": "R$19.14",
     "lucro": "106%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "850",
@@ -3885,7 +3885,7 @@
     "quantidade": "1",
     "custo": "R$22.01",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "856",
@@ -3897,7 +3897,7 @@
     "quantidade": "1",
     "custo": "R$7.36",
     "lucro": "164%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "857",
@@ -3909,7 +3909,7 @@
     "quantidade": "1",
     "custo": "R$7.36",
     "lucro": "164%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "858",
@@ -3921,7 +3921,7 @@
     "quantidade": "1",
     "custo": "R$7.36",
     "lucro": "164%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "859",
@@ -3933,7 +3933,7 @@
     "quantidade": "5",
     "custo": "R$19.27",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "860",
@@ -3945,7 +3945,7 @@
     "quantidade": "5",
     "custo": "R$19.27",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "861",
@@ -3957,7 +3957,7 @@
     "quantidade": "5",
     "custo": "R$19.27",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "862",
@@ -3969,7 +3969,7 @@
     "quantidade": "5",
     "custo": "R$19.27",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "863",
@@ -3981,7 +3981,7 @@
     "quantidade": "5",
     "custo": "R$20.23",
     "lucro": "95%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "864",
@@ -3993,7 +3993,7 @@
     "quantidade": "5",
     "custo": "R$20.23",
     "lucro": "95%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "865",
@@ -4005,7 +4005,7 @@
     "quantidade": "5",
     "custo": "R$20.23",
     "lucro": "95%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "867",
@@ -4017,7 +4017,7 @@
     "quantidade": "5",
     "custo": "R$19.27",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "868",
@@ -4029,7 +4029,7 @@
     "quantidade": "1",
     "custo": "R$28.62",
     "lucro": "37%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "870",
@@ -4041,7 +4041,7 @@
     "quantidade": "1",
     "custo": "R$20.58",
     "lucro": "90%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "873",
@@ -4053,7 +4053,7 @@
     "quantidade": "1",
     "custo": "R$28.62",
     "lucro": "37%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "874",
@@ -4065,7 +4065,7 @@
     "quantidade": "1",
     "custo": "R$28.62",
     "lucro": "72%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "878",
@@ -4077,7 +4077,7 @@
     "quantidade": "1",
     "custo": "R$28.62",
     "lucro": "72%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "879",
@@ -4089,7 +4089,7 @@
     "quantidade": "1",
     "custo": "R$14.83",
     "lucro": "71%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "885",
@@ -4101,7 +4101,7 @@
     "quantidade": "1",
     "custo": "R$18.00",
     "lucro": "75%",
-    "venda": "R$32.90\r"
+    "venda": "R$32.90"
   },
   {
     "codigo": "888",
@@ -4113,7 +4113,7 @@
     "quantidade": "1",
     "custo": "R$21.40",
     "lucro": "75%",
-    "venda": "R$37.90\r"
+    "venda": "R$37.90"
   },
   {
     "codigo": "891",
@@ -4125,7 +4125,7 @@
     "quantidade": "1",
     "custo": "R$27.06",
     "lucro": "68%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "892",
@@ -4137,7 +4137,7 @@
     "quantidade": "1",
     "custo": "R$28.19",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "893",
@@ -4149,7 +4149,7 @@
     "quantidade": "1",
     "custo": "R$28.19",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "894",
@@ -4161,7 +4161,7 @@
     "quantidade": "1",
     "custo": "R$28.19",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "898",
@@ -4173,7 +4173,7 @@
     "quantidade": "1",
     "custo": "R$27.06",
     "lucro": "75%",
-    "venda": "R$47.90\r"
+    "venda": "R$47.90"
   },
   {
     "codigo": "899",
@@ -4185,7 +4185,7 @@
     "quantidade": "1",
     "custo": "R$27.06",
     "lucro": "75%",
-    "venda": "R$47.90\r"
+    "venda": "R$47.90"
   },
   {
     "codigo": "901",
@@ -4197,7 +4197,7 @@
     "quantidade": "1",
     "custo": "R$40.65",
     "lucro": "70%",
-    "venda": "R$69.90\r"
+    "venda": "R$69.90"
   },
   {
     "codigo": "904",
@@ -4209,7 +4209,7 @@
     "quantidade": "1",
     "custo": "R$27.06",
     "lucro": "68%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "905",
@@ -4221,7 +4221,7 @@
     "quantidade": "1",
     "custo": "R$27.06",
     "lucro": "68%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "906",
@@ -4233,7 +4233,7 @@
     "quantidade": "1",
     "custo": "R$27.06",
     "lucro": "68%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "907",
@@ -4245,7 +4245,7 @@
     "quantidade": "1",
     "custo": "R$28.21",
     "lucro": "61%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "909",
@@ -4257,7 +4257,7 @@
     "quantidade": "1",
     "custo": "R$28.21",
     "lucro": "61%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "911",
@@ -4269,7 +4269,7 @@
     "quantidade": "1",
     "custo": "R$22.53",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "915",
@@ -4281,7 +4281,7 @@
     "quantidade": "1",
     "custo": "R$13.47",
     "lucro": "75%",
-    "venda": "R$24.90\r"
+    "venda": "R$24.90"
   },
   {
     "codigo": "917",
@@ -4293,7 +4293,7 @@
     "quantidade": "1",
     "custo": "R$21.40",
     "lucro": "80%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "918",
@@ -4305,7 +4305,7 @@
     "quantidade": "1",
     "custo": "R$21.40",
     "lucro": "80%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "919",
@@ -4317,7 +4317,7 @@
     "quantidade": "1",
     "custo": "R$21.40",
     "lucro": "80%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "920",
@@ -4329,7 +4329,7 @@
     "quantidade": "1",
     "custo": "R$16.35",
     "lucro": "100%",
-    "venda": "R$33.90\r"
+    "venda": "R$33.90"
   },
   {
     "codigo": "923",
@@ -4341,7 +4341,7 @@
     "quantidade": "2",
     "custo": "R$24.80",
     "lucro": "75%",
-    "venda": "R$43.90\r"
+    "venda": "R$43.90"
   },
   {
     "codigo": "925",
@@ -4353,7 +4353,7 @@
     "quantidade": "1",
     "custo": "R$20.27",
     "lucro": "94%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "926",
@@ -4365,7 +4365,7 @@
     "quantidade": "1",
     "custo": "R$20.27",
     "lucro": "94%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "927",
@@ -4377,7 +4377,7 @@
     "quantidade": "1",
     "custo": "R$20.27",
     "lucro": "94%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "933",
@@ -4389,7 +4389,7 @@
     "quantidade": "1",
     "custo": "R$22.53",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "935",
@@ -4401,7 +4401,7 @@
     "quantidade": "2",
     "custo": "R$16.87",
     "lucro": "105%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "936",
@@ -4413,7 +4413,7 @@
     "quantidade": "1",
     "custo": "R$16.87",
     "lucro": "105%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "937",
@@ -4425,7 +4425,7 @@
     "quantidade": "1",
     "custo": "R$18.00",
     "lucro": "119%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "940",
@@ -4437,7 +4437,7 @@
     "quantidade": "1",
     "custo": "R$13.47",
     "lucro": "163%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "941",
@@ -4449,7 +4449,7 @@
     "quantidade": "1",
     "custo": "R$13.48",
     "lucro": "163%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "942",
@@ -4461,7 +4461,7 @@
     "quantidade": "1",
     "custo": "R$11.21",
     "lucro": "100%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "943",
@@ -4473,7 +4473,7 @@
     "quantidade": "1",
     "custo": "R$11.21",
     "lucro": "100%",
-    "venda": "R$22.90\r"
+    "venda": "R$22.90"
   },
   {
     "codigo": "944",
@@ -4485,7 +4485,7 @@
     "quantidade": "1",
     "custo": "R$13.47",
     "lucro": "100%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "946",
@@ -4497,7 +4497,7 @@
     "quantidade": "1",
     "custo": "R$13.47",
     "lucro": "100%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "947",
@@ -4509,7 +4509,7 @@
     "quantidade": "1",
     "custo": "R$18.77",
     "lucro": "110%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "948",
@@ -4521,7 +4521,7 @@
     "quantidade": "1",
     "custo": "R$18.77",
     "lucro": "110%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "949",
@@ -4533,7 +4533,7 @@
     "quantidade": "1",
     "custo": "R$18.77",
     "lucro": "110%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "952",
@@ -4545,7 +4545,7 @@
     "quantidade": "1",
     "custo": "R$22.35",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "955",
@@ -4557,7 +4557,7 @@
     "quantidade": "3",
     "custo": "R$10.18",
     "lucro": "91%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "956",
@@ -4569,7 +4569,7 @@
     "quantidade": "3",
     "custo": "R$10.18",
     "lucro": "91%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "957",
@@ -4581,7 +4581,7 @@
     "quantidade": "2",
     "custo": "R$10.18",
     "lucro": "91%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "958",
@@ -4593,7 +4593,7 @@
     "quantidade": "3",
     "custo": "R$10.18",
     "lucro": "91%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "959",
@@ -4605,7 +4605,7 @@
     "quantidade": "3",
     "custo": "R$10.18",
     "lucro": "91%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "962",
@@ -4617,7 +4617,7 @@
     "quantidade": "1",
     "custo": "R$15.51",
     "lucro": "75%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "963",
@@ -4629,7 +4629,7 @@
     "quantidade": "1",
     "custo": "R$16.87",
     "lucro": "74%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "964",
@@ -4641,7 +4641,7 @@
     "quantidade": "1",
     "custo": "R$16.87",
     "lucro": "74%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "967",
@@ -4653,7 +4653,7 @@
     "quantidade": "1",
     "custo": "R$16.87",
     "lucro": "74%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "968",
@@ -4665,7 +4665,7 @@
     "quantidade": "1",
     "custo": "R$16.87",
     "lucro": "74%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "969",
@@ -4677,7 +4677,7 @@
     "quantidade": "1",
     "custo": "R$34.29",
     "lucro": "73%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "971",
@@ -4689,7 +4689,7 @@
     "quantidade": "1",
     "custo": "R$19.60",
     "lucro": "100%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "972",
@@ -4701,7 +4701,7 @@
     "quantidade": "1",
     "custo": "R$10.32",
     "lucro": "88%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "973",
@@ -4713,7 +4713,7 @@
     "quantidade": "1",
     "custo": "R$10.32",
     "lucro": "88%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "974",
@@ -4725,7 +4725,7 @@
     "quantidade": "1",
     "custo": "R$10.32",
     "lucro": "88%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "975",
@@ -4737,7 +4737,7 @@
     "quantidade": "1",
     "custo": "R$10.32",
     "lucro": "88%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "976",
@@ -4749,7 +4749,7 @@
     "quantidade": "1",
     "custo": "R$10.32",
     "lucro": "88%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "977",
@@ -4761,7 +4761,7 @@
     "quantidade": "1",
     "custo": "R$10.32",
     "lucro": "88%",
-    "venda": "R$19.90\r"
+    "venda": "R$19.90"
   },
   {
     "codigo": "979",
@@ -4773,7 +4773,7 @@
     "quantidade": "1",
     "custo": "R$20.79",
     "lucro": "90%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "980",
@@ -4785,7 +4785,7 @@
     "quantidade": "1",
     "custo": "R$20.79",
     "lucro": "90%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "981",
@@ -4797,7 +4797,7 @@
     "quantidade": "1",
     "custo": "R$20.79",
     "lucro": "90%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "982",
@@ -4809,7 +4809,7 @@
     "quantidade": "1",
     "custo": "R$20.79",
     "lucro": "90%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "984",
@@ -4821,7 +4821,7 @@
     "quantidade": "1",
     "custo": "R$25.79",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "986",
@@ -4833,7 +4833,7 @@
     "quantidade": "2",
     "custo": "R$25.80",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "987",
@@ -4845,7 +4845,7 @@
     "quantidade": "2",
     "custo": "R$25.80",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "988",
@@ -4857,7 +4857,7 @@
     "quantidade": "2",
     "custo": "R$25.80",
     "lucro": "75%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "992",
@@ -4869,7 +4869,7 @@
     "quantidade": "1",
     "custo": "R$25.69",
     "lucro": "92%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "994",
@@ -4881,7 +4881,7 @@
     "quantidade": "1",
     "custo": "R$19.49",
     "lucro": "82%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "995",
@@ -4893,7 +4893,7 @@
     "quantidade": "1",
     "custo": "R$19.49",
     "lucro": "82%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "996",
@@ -4905,7 +4905,7 @@
     "quantidade": "1",
     "custo": "R$19.49",
     "lucro": "82%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "997",
@@ -4917,7 +4917,7 @@
     "quantidade": "1",
     "custo": "R$19.49",
     "lucro": "82%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "998",
@@ -4929,7 +4929,7 @@
     "quantidade": "1",
     "custo": "R$19.49",
     "lucro": "82%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1000",
@@ -4941,7 +4941,7 @@
     "quantidade": "1",
     "custo": "R$32.21",
     "lucro": "70%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1001",
@@ -4953,7 +4953,7 @@
     "quantidade": "1",
     "custo": "R$32.21",
     "lucro": "70%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "961",
@@ -4965,7 +4965,7 @@
     "quantidade": "1",
     "custo": "R$15.51",
     "lucro": "75%",
-    "venda": "R$27.90\r"
+    "venda": "R$27.90"
   },
   {
     "codigo": "1002",
@@ -4977,7 +4977,7 @@
     "quantidade": "1",
     "custo": "R$32.21",
     "lucro": "70%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1004",
@@ -4989,7 +4989,7 @@
     "quantidade": "1",
     "custo": "R$32.21",
     "lucro": "70%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1005",
@@ -5001,7 +5001,7 @@
     "quantidade": "1",
     "custo": "R$32.21",
     "lucro": "70%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1006",
@@ -5013,7 +5013,7 @@
     "quantidade": "1",
     "custo": "R$29.02",
     "lucro": "70%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1009",
@@ -5025,7 +5025,7 @@
     "quantidade": "1",
     "custo": "R$54.80",
     "lucro": "80%",
-    "venda": "R$99.90\r"
+    "venda": "R$99.90"
   },
   {
     "codigo": "1010",
@@ -5037,7 +5037,7 @@
     "quantidade": "1",
     "custo": "R$54.80",
     "lucro": "80%",
-    "venda": "R$99.90\r"
+    "venda": "R$99.90"
   },
   {
     "codigo": "1014",
@@ -5049,7 +5049,7 @@
     "quantidade": "1",
     "custo": "R$54.80",
     "lucro": "80%",
-    "venda": "R$99.90\r"
+    "venda": "R$99.90"
   },
   {
     "codigo": "1016",
@@ -5061,7 +5061,7 @@
     "quantidade": "1",
     "custo": "R$54.80",
     "lucro": "80%",
-    "venda": "R$99.90\r"
+    "venda": "R$99.90"
   },
   {
     "codigo": "1017",
@@ -5073,7 +5073,7 @@
     "quantidade": "1",
     "custo": "R$16.31",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "1018",
@@ -5085,7 +5085,7 @@
     "quantidade": "2",
     "custo": "R$16.30",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "1019",
@@ -5097,7 +5097,7 @@
     "quantidade": "1",
     "custo": "R$16.31",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "1021",
@@ -5109,7 +5109,7 @@
     "quantidade": "1",
     "custo": "R$21.74",
     "lucro": "78%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1023",
@@ -5121,7 +5121,7 @@
     "quantidade": "1",
     "custo": "R$16.30",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "1024",
@@ -5133,7 +5133,7 @@
     "quantidade": "1",
     "custo": "R$16.30",
     "lucro": "75%",
-    "venda": "R$29.90\r"
+    "venda": "R$29.90"
   },
   {
     "codigo": "1025",
@@ -5145,7 +5145,7 @@
     "quantidade": "1",
     "custo": "R$39.13",
     "lucro": "70%",
-    "venda": "R$67.90\r"
+    "venda": "R$67.90"
   },
   {
     "codigo": "1027",
@@ -5157,7 +5157,7 @@
     "quantidade": "1",
     "custo": "R$23.91",
     "lucro": "75%",
-    "venda": "R$42.90\r"
+    "venda": "R$42.90"
   },
   {
     "codigo": "1028",
@@ -5169,7 +5169,7 @@
     "quantidade": "1",
     "custo": "R$21.74",
     "lucro": "78%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1030",
@@ -5181,7 +5181,7 @@
     "quantidade": "1",
     "custo": "R$23.91",
     "lucro": "75%",
-    "venda": "R$42.90\r"
+    "venda": "R$42.90"
   },
   {
     "codigo": "1031",
@@ -5193,7 +5193,7 @@
     "quantidade": "1",
     "custo": "R$23.91",
     "lucro": "75%",
-    "venda": "R$42.90\r"
+    "venda": "R$42.90"
   },
   {
     "codigo": "1032",
@@ -5205,7 +5205,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1034",
@@ -5217,7 +5217,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1038",
@@ -5229,7 +5229,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1039",
@@ -5241,7 +5241,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1040",
@@ -5253,7 +5253,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1044",
@@ -5265,7 +5265,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1045",
@@ -5277,7 +5277,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1047",
@@ -5289,7 +5289,7 @@
     "quantidade": "1",
     "custo": "R$32.17",
     "lucro": "75%",
-    "venda": "R$56.90\r"
+    "venda": "R$56.90"
   },
   {
     "codigo": "1048",
@@ -5301,7 +5301,7 @@
     "quantidade": "2",
     "custo": "R$19.66",
     "lucro": "80%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1049",
@@ -5313,7 +5313,7 @@
     "quantidade": "2",
     "custo": "R$19.66",
     "lucro": "80%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1050",
@@ -5325,7 +5325,7 @@
     "quantidade": "2",
     "custo": "R$19.66",
     "lucro": "80%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1051",
@@ -5337,7 +5337,7 @@
     "quantidade": "2",
     "custo": "R$19.66",
     "lucro": "80%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1052",
@@ -5349,7 +5349,7 @@
     "quantidade": "2",
     "custo": "R$19.66",
     "lucro": "80%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1053",
@@ -5361,7 +5361,7 @@
     "quantidade": "2",
     "custo": "R$19.66",
     "lucro": "80%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1058",
@@ -5373,7 +5373,7 @@
     "quantidade": "1",
     "custo": "R$17.81",
     "lucro": "99%",
-    "venda": "R$35.90\r"
+    "venda": "R$35.90"
   },
   {
     "codigo": "1059",
@@ -5385,7 +5385,7 @@
     "quantidade": "1",
     "custo": "R$74.73",
     "lucro": "73%",
-    "venda": "R$129.90\r"
+    "venda": "R$129.90"
   },
   {
     "codigo": "1060",
@@ -5397,7 +5397,7 @@
     "quantidade": "3",
     "custo": "R$23.18",
     "lucro": "75%",
-    "venda": "R$41.90\r"
+    "venda": "R$41.90"
   },
   {
     "codigo": "1062",
@@ -5409,7 +5409,7 @@
     "quantidade": "1",
     "custo": "R$25.42",
     "lucro": "75%",
-    "venda": "R$44.90\r"
+    "venda": "R$44.90"
   },
   {
     "codigo": "1063",
@@ -5421,7 +5421,7 @@
     "quantidade": "1",
     "custo": "R$25.42",
     "lucro": "75%",
-    "venda": "R$44.90\r"
+    "venda": "R$44.90"
   },
   {
     "codigo": "1064",
@@ -5433,7 +5433,7 @@
     "quantidade": "1",
     "custo": "R$25.42",
     "lucro": "75%",
-    "venda": "R$44.90\r"
+    "venda": "R$44.90"
   },
   {
     "codigo": "1065",
@@ -5445,7 +5445,7 @@
     "quantidade": "2",
     "custo": "R$15.12",
     "lucro": "227%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1066",
@@ -5457,7 +5457,7 @@
     "quantidade": "2",
     "custo": "R$15.12",
     "lucro": "227%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1068",
@@ -5469,7 +5469,7 @@
     "quantidade": "1",
     "custo": "R$30.32",
     "lucro": "129%",
-    "venda": "R$69.90\r"
+    "venda": "R$69.90"
   },
   {
     "codigo": "1070",
@@ -5481,7 +5481,7 @@
     "quantidade": "1",
     "custo": "R$30.32",
     "lucro": "129%",
-    "venda": "R$69.90\r"
+    "venda": "R$69.90"
   },
   {
     "codigo": "1071",
@@ -5493,7 +5493,7 @@
     "quantidade": "1",
     "custo": "R$30.32",
     "lucro": "129%",
-    "venda": "R$69.90\r"
+    "venda": "R$69.90"
   },
   {
     "codigo": "1072",
@@ -5505,7 +5505,7 @@
     "quantidade": "1",
     "custo": "R$30.32",
     "lucro": "129%",
-    "venda": "R$69.90\r"
+    "venda": "R$69.90"
   },
   {
     "codigo": "1073",
@@ -5517,7 +5517,7 @@
     "quantidade": "1",
     "custo": "R$30.32",
     "lucro": "129%",
-    "venda": "R$69.90\r"
+    "venda": "R$69.90"
   },
   {
     "codigo": "1074",
@@ -5529,7 +5529,7 @@
     "quantidade": "1",
     "custo": "R$29.56",
     "lucro": "100%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "1075",
@@ -5541,7 +5541,7 @@
     "quantidade": "1",
     "custo": "R$29.56",
     "lucro": "101%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "1076",
@@ -5553,7 +5553,7 @@
     "quantidade": "1",
     "custo": "R$29.56",
     "lucro": "101%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "1077",
@@ -5565,7 +5565,7 @@
     "quantidade": "1",
     "custo": "R$29.56",
     "lucro": "101%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "1078",
@@ -5577,7 +5577,7 @@
     "quantidade": "1",
     "custo": "R$29.56",
     "lucro": "101%",
-    "venda": "R$59.90\r"
+    "venda": "R$59.90"
   },
   {
     "codigo": "1079",
@@ -5589,7 +5589,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1241",
@@ -5601,7 +5601,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1242",
@@ -5613,7 +5613,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1080",
@@ -5625,7 +5625,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1081",
@@ -5637,7 +5637,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1082",
@@ -5649,7 +5649,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1083",
@@ -5661,7 +5661,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1088",
@@ -5673,7 +5673,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1089",
@@ -5685,7 +5685,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1090",
@@ -5697,7 +5697,7 @@
     "quantidade": "1",
     "custo": "R$26.52",
     "lucro": "86%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1093",
@@ -5709,7 +5709,7 @@
     "quantidade": "3",
     "custo": "R$8.36",
     "lucro": "205%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "1094",
@@ -5721,7 +5721,7 @@
     "quantidade": "2",
     "custo": "R$8.36",
     "lucro": "205%",
-    "venda": "R$25.90\r"
+    "venda": "R$25.90"
   },
   {
     "codigo": "1095",
@@ -5733,7 +5733,7 @@
     "quantidade": "1",
     "custo": "R$28.16",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1097",
@@ -5745,7 +5745,7 @@
     "quantidade": "1",
     "custo": "R$20.84",
     "lucro": "85%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1098",
@@ -5757,7 +5757,7 @@
     "quantidade": "1",
     "custo": "R$20.84",
     "lucro": "85%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1100",
@@ -5769,7 +5769,7 @@
     "quantidade": "47",
     "custo": "R$6.11",
     "lucro": "130%",
-    "venda": "R$14.90\r"
+    "venda": "R$14.90"
   },
   {
     "codigo": "1101",
@@ -5781,7 +5781,7 @@
     "quantidade": "1",
     "custo": "R$24.47",
     "lucro": "86%",
-    "venda": "R$46.90\r"
+    "venda": "R$46.90"
   },
   {
     "codigo": "1102",
@@ -5793,7 +5793,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "85%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1103",
@@ -5805,7 +5805,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1104",
@@ -5817,7 +5817,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1105",
@@ -5829,7 +5829,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1106",
@@ -5841,7 +5841,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1107",
@@ -5853,7 +5853,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1108",
@@ -5865,7 +5865,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1109",
@@ -5877,7 +5877,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1110",
@@ -5889,7 +5889,7 @@
     "quantidade": "1",
     "custo": "R$24.44",
     "lucro": "86%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1111",
@@ -5901,7 +5901,7 @@
     "quantidade": "1",
     "custo": "R$24.84",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1112",
@@ -5913,7 +5913,7 @@
     "quantidade": "1",
     "custo": "R$24.78",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1114",
@@ -5925,7 +5925,7 @@
     "quantidade": "1",
     "custo": "R$24.78",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1115",
@@ -5937,7 +5937,7 @@
     "quantidade": "1",
     "custo": "R$24.78",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1116",
@@ -5949,7 +5949,7 @@
     "quantidade": "1",
     "custo": "R$24.78",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1117",
@@ -5961,7 +5961,7 @@
     "quantidade": "1",
     "custo": "R$24.78",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1118",
@@ -5973,7 +5973,7 @@
     "quantidade": "1",
     "custo": "R$24.78",
     "lucro": "99%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1119",
@@ -5985,7 +5985,7 @@
     "quantidade": "1",
     "custo": "R$26.95",
     "lucro": "80%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1120",
@@ -5997,7 +5997,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1121",
@@ -6009,7 +6009,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1122",
@@ -6021,7 +6021,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1123",
@@ -6033,7 +6033,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1124",
@@ -6045,7 +6045,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1125",
@@ -6057,7 +6057,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1126",
@@ -6069,7 +6069,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1127",
@@ -6081,7 +6081,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1128",
@@ -6093,7 +6093,7 @@
     "quantidade": "1",
     "custo": "R$26.88",
     "lucro": "84%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1129",
@@ -6105,7 +6105,7 @@
     "quantidade": "1",
     "custo": "R$28.03",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1130",
@@ -6117,7 +6117,7 @@
     "quantidade": "1",
     "custo": "R$28.03",
     "lucro": "75%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1131",
@@ -6129,7 +6129,7 @@
     "quantidade": "1",
     "custo": "R$25.26",
     "lucro": "80%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1132",
@@ -6141,7 +6141,7 @@
     "quantidade": "1",
     "custo": "R$25.26",
     "lucro": "80%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1133",
@@ -6153,7 +6153,7 @@
     "quantidade": "1",
     "custo": "R$25.27",
     "lucro": "80%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1134",
@@ -6165,7 +6165,7 @@
     "quantidade": "1",
     "custo": "R$25.27",
     "lucro": "80%",
-    "venda": "R$45.90\r"
+    "venda": "R$45.90"
   },
   {
     "codigo": "1137",
@@ -6177,7 +6177,7 @@
     "quantidade": "1",
     "custo": "R$17.96",
     "lucro": "75%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "1139",
@@ -6189,7 +6189,7 @@
     "quantidade": "1",
     "custo": "R$17.96",
     "lucro": "75%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "1140",
@@ -6201,7 +6201,7 @@
     "quantidade": "1",
     "custo": "R$17.96",
     "lucro": "75%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "1141",
@@ -6213,7 +6213,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1142",
@@ -6225,7 +6225,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1143",
@@ -6237,7 +6237,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1144",
@@ -6249,7 +6249,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1145",
@@ -6261,7 +6261,7 @@
     "quantidade": "1",
     "custo": "R$30.39",
     "lucro": "82%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1148",
@@ -6273,7 +6273,7 @@
     "quantidade": "1",
     "custo": "R$37.17",
     "lucro": "75%",
-    "venda": "R$65.90\r"
+    "venda": "R$65.90"
   },
   {
     "codigo": "1149",
@@ -6285,7 +6285,7 @@
     "quantidade": "1",
     "custo": "R$37.17",
     "lucro": "75%",
-    "venda": "R$65.90\r"
+    "venda": "R$65.90"
   },
   {
     "codigo": "1150",
@@ -6297,7 +6297,7 @@
     "quantidade": "1",
     "custo": "R$37.17",
     "lucro": "75%",
-    "venda": "R$65.90\r"
+    "venda": "R$65.90"
   },
   {
     "codigo": "1151",
@@ -6309,7 +6309,7 @@
     "quantidade": "1",
     "custo": "R$37.17",
     "lucro": "75%",
-    "venda": "R$65.90\r"
+    "venda": "R$65.90"
   },
   {
     "codigo": "1153",
@@ -6321,7 +6321,7 @@
     "quantidade": "1",
     "custo": "R$27.00",
     "lucro": "75%",
-    "venda": "R$47.90\r"
+    "venda": "R$47.90"
   },
   {
     "codigo": "1154",
@@ -6333,7 +6333,7 @@
     "quantidade": "1",
     "custo": "R$27.00",
     "lucro": "75%",
-    "venda": "R$47.90\r"
+    "venda": "R$47.90"
   },
   {
     "codigo": "1155",
@@ -6345,7 +6345,7 @@
     "quantidade": "1",
     "custo": "R$29.26",
     "lucro": "89%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1157",
@@ -6357,7 +6357,7 @@
     "quantidade": "1",
     "custo": "R$29.26",
     "lucro": "89%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1158",
@@ -6369,7 +6369,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1159",
@@ -6381,7 +6381,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1160",
@@ -6393,7 +6393,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1161",
@@ -6405,7 +6405,7 @@
     "quantidade": "1",
     "custo": "R$31.52",
     "lucro": "75%",
-    "venda": "R$55.90\r"
+    "venda": "R$55.90"
   },
   {
     "codigo": "1162",
@@ -6417,7 +6417,7 @@
     "quantidade": "1",
     "custo": "R$17.96",
     "lucro": "75%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "1163",
@@ -6429,7 +6429,7 @@
     "quantidade": "1",
     "custo": "R$17.96",
     "lucro": "75%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "1164",
@@ -6441,7 +6441,7 @@
     "quantidade": "1",
     "custo": "R$17.96",
     "lucro": "75%",
-    "venda": "R$31.90\r"
+    "venda": "R$31.90"
   },
   {
     "codigo": "1166",
@@ -6453,7 +6453,7 @@
     "quantidade": "1",
     "custo": "R$27.00",
     "lucro": "80%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1167",
@@ -6465,7 +6465,7 @@
     "quantidade": "1",
     "custo": "R$27.00",
     "lucro": "80%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1168",
@@ -6477,7 +6477,7 @@
     "quantidade": "1",
     "custo": "R$27.00",
     "lucro": "80%",
-    "venda": "R$49.90\r"
+    "venda": "R$49.90"
   },
   {
     "codigo": "1169",
@@ -6489,7 +6489,7 @@
     "quantidade": "1",
     "custo": "R$32.65",
     "lucro": "75%",
-    "venda": "R$57.90\r"
+    "venda": "R$57.90"
   },
   {
     "codigo": "1170",
@@ -6501,7 +6501,7 @@
     "quantidade": "1",
     "custo": "R$32.65",
     "lucro": "75%",
-    "venda": "R$57.90\r"
+    "venda": "R$57.90"
   },
   {
     "codigo": "1172",
@@ -6513,7 +6513,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1173",
@@ -6525,7 +6525,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1174",
@@ -6537,7 +6537,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1175",
@@ -6549,7 +6549,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1176",
@@ -6561,7 +6561,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1178",
@@ -6573,7 +6573,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1179",
@@ -6585,7 +6585,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1180",
@@ -6597,7 +6597,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1181",
@@ -6609,7 +6609,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1182",
@@ -6621,7 +6621,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1183",
@@ -6633,7 +6633,7 @@
     "quantidade": "1",
     "custo": "R$19.09",
     "lucro": "106%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1184",
@@ -6645,7 +6645,7 @@
     "quantidade": "1",
     "custo": "R$19.09",
     "lucro": "106%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1185",
@@ -6657,7 +6657,7 @@
     "quantidade": "1",
     "custo": "R$19.09",
     "lucro": "106%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1186",
@@ -6669,7 +6669,7 @@
     "quantidade": "1",
     "custo": "R$16.83",
     "lucro": "134%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1187",
@@ -6681,7 +6681,7 @@
     "quantidade": "1",
     "custo": "R$16.83",
     "lucro": "134%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1188",
@@ -6693,7 +6693,7 @@
     "quantidade": "1",
     "custo": "R$16.83",
     "lucro": "134%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1189",
@@ -6705,7 +6705,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1190",
@@ -6717,7 +6717,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1191",
@@ -6729,7 +6729,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1192",
@@ -6741,7 +6741,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1194",
@@ -6753,7 +6753,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1195",
@@ -6765,7 +6765,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1196",
@@ -6777,7 +6777,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1197",
@@ -6789,7 +6789,7 @@
     "quantidade": "1",
     "custo": "R$22.48",
     "lucro": "75%",
-    "venda": "R$39.90\r"
+    "venda": "R$39.90"
   },
   {
     "codigo": "1199",
@@ -6801,7 +6801,7 @@
     "quantidade": "1",
     "custo": "R$29.26",
     "lucro": "80%",
-    "venda": "R$53.90\r"
+    "venda": "R$53.90"
   },
   {
     "codigo": "1200",
@@ -6813,7 +6813,7 @@
     "quantidade": "1",
     "custo": "R$29.26",
     "lucro": "80%",
-    "venda": "R$53.90\r"
+    "venda": "R$53.90"
   },
   {
     "codigo": "1201",
@@ -6825,7 +6825,7 @@
     "quantidade": "1",
     "custo": "R$29.26",
     "lucro": "80%",
-    "venda": "R$53.90\r"
+    "venda": "R$53.90"
   },
   {
     "codigo": "1204",
