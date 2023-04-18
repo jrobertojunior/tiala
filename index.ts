@@ -20,6 +20,12 @@ const airtableJson = airtableFileLines.map((line) => {
     venda,
   ] = line.split(";");
 
+  function formatCurrencyBRL(value: string): string {
+    // remove R$ and .
+    value = value.replace("R$", "").replace(".", ",");
+    return value;
+  }
+
   return {
     codigo,
     nome,
@@ -28,9 +34,9 @@ const airtableJson = airtableFileLines.map((line) => {
     cor,
     imagem,
     quantidade,
-    custo,
+    custo: formatCurrencyBRL(custo),
     lucro,
-    venda,
+    venda: formatCurrencyBRL(venda),
   };
 });
 writeFileSync(
