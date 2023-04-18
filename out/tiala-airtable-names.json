@@ -1,18 +1,4 @@
 {
-  "nome do produto": [
-    {
-      "codigo": "codigo",
-      "nome": "nome do produto",
-      "sexo": "sexo",
-      "tamanho": "tamanho",
-      "cor": "cor",
-      "imagem": "imagem",
-      "quantidade": "quantidade",
-      "custo": "valor de custo",
-      "lucro": "perc lucro",
-      "venda": "valor de venda\r"
-    }
-  ],
   "Meia You Baby": [
     {
       "codigo": "13",

@@ -1,7 +1,7 @@
 import fs, { writeFileSync } from "fs";
 
 const airtableFile = fs.readFileSync("data/tiala-airtable.csv", "utf8");
-const airtableFileLines = airtableFile.split("\n");
+const airtableFileLines = airtableFile.split("\n").slice(1);
 
 const airtableJson = airtableFileLines.map((line) => {
   const [
@@ -29,6 +29,10 @@ const airtableJson = airtableFileLines.map((line) => {
     venda,
   };
 });
+writeFileSync(
+  "./out/tiala-airtable.json",
+  JSON.stringify(airtableJson, null, 2)
+);
 
 const airtableIndexedByNome = airtableJson.reduce((acc: any, item) => {
   if (acc[item.nome]) {
@@ -45,8 +49,7 @@ writeFileSync(
 );
 
 const bingHeader =
-  "Código;Descrição;Unidade;NCM;Origem;Estoque;Preço de custo;Preço;Valor IPI fixo;Observações;Situação;Cód no fornecedor;Fornecedor;Localização;Estoque maximo;Estoque minimo;Peso líquido (Kg);Peso bruto (Kg);GTIN/EAN;GTIN/EAN da embalagem;Largura do Produto;Altura do Produto;Profundidade do produto;Data Validade;Descrição do Produto no Fornecedor;Descrição Complementar;Unidade por Caixa;Produto Variação;Tipo Produção;Classe de enquadramento do IPI;Código da lista de serviços;Tipo do item;Grupo de Tags/Tags;Tributos;Código Pai;Código Integração;Grupo de produtos;Marca;CEST;Volumes;Descrição Curta;Cross-Docking;URL Imagens Externas;Link Externo;Meses Garantia no Fornecedor;Clonar dados do pai;Condição do produto;Frete Grátis;Número FCI;Vídeo;Departamento;Unidade de medida;Preço de compra;Valor base ICMS ST para retenção;Valor ICMS ST para retenção;Valor ICMS próprio do substituto;Categoria do produto;Informações Adicionais";
-
+  "Código;Descrição;Unidade;NCM;Origem;Preço;Valor IPI fixo;Observações;Situação;Estoque;Preço de custo;Cód no fornecedor;Fornecedor;Localização;Estoque maximo;Estoque minimo;Peso líquido (Kg);Peso bruto (Kg);GTIN/EAN;GTIN/EAN da embalagem;Largura do Produto;Altura do Produto;Profundidade do produto;Data Validade;Descrição do Produto no Fornecedor;Descrição Complementar;Unidade por Caixa;Produto Variação;Tipo Produção;Classe de enquadramento do IPI;Código da lista de serviços;Tipo do item;Grupo de Tags/Tags;Tributos;Código Pai;Código Integração;Grupo de produtos;Marca;CEST;Volumes;Descrição Curta;Cross-Docking;URL Imagens Externas;Link Externo;Meses Garantia no Fornecedor;Clonar dados do pai;Condição do produto;Frete Grátis;Número FCI;Vídeo;Departamento;Unidade de medida;Preço de compra;Valor base ICMS ST para retenção;Valor ICMS ST para retenção;Valor ICMS próprio do substituto;Categoria do produto;Informações Adicionais";
 const bingRows: string[] = [];
 
 for (const nome in airtableIndexedByNome) {
@@ -219,7 +222,7 @@ function createBingRow(
   // Categoria do produto
   row += ";";
   // Informações Adicionais
-  row += ";";
+  row += "";
 
   return row;
 }
