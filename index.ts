@@ -65,46 +65,31 @@ const bingRows: string[] = [];
 for (const nome in airtableIndexedByNome) {
   const items = airtableIndexedByNome[nome];
 
-  if (items.length === 1) {
-    const item = items[0];
+  const item = items[0];
+  const parentCode = "PAI" + item.codigo;
+  // cria uma linha para o pai
+  const row = createBingRow(
+    parentCode,
+    item.nome,
+    item.imagem,
+    item.custo,
+    item.quantidade,
+    "",
+    item.venda
+  );
+  bingRows.push(row);
+  for (const item of items) {
+    // cria uma linha para cada filho
     const row = createBingRow(
       item.codigo,
-      item.nome,
+      `"Tamanho: ${item.tamanho};Sexo: ${item.sexo}"`,
       item.imagem,
       item.custo,
       item.quantidade,
-      "",
-      item.venda
-    );
-    bingRows.push(row);
-    continue;
-  } else if (items.length > 1) {
-    const item = items[0];
-    const parentCode = "PAI" + item.codigo;
-    // cria uma linha para o pai
-    const row = createBingRow(
       parentCode,
-      item.nome,
-      item.imagem,
-      item.custo,
-      item.quantidade,
-      "",
       item.venda
     );
     bingRows.push(row);
-    for (const item of items) {
-      // cria uma linha para cada filho
-      const row = createBingRow(
-        item.codigo,
-        `"Tamanho: ${item.tamanho};Sexo: ${item.sexo}"`,
-        item.imagem,
-        item.custo,
-        item.quantidade,
-        parentCode,
-        item.venda
-      );
-      bingRows.push(row);
-    }
   }
 }
 
